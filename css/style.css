@@ -109,7 +109,7 @@ header {
     font-size: 30px;
 }
 
-.work-space {
+#work-space {
     padding: 100px 0;
     background-color: rgb(241, 240, 236);
 }
@@ -172,7 +172,7 @@ header {
     background-color: rgba(94, 91, 91, 0.61);
 }
 
-.about {
+#about {
     padding: 100px 0;
     background-color: rgb(241, 240, 236);
 }
@@ -227,7 +227,7 @@ header {
     letter-spacing: 1px;
 }
 
-.information {
+#information {
     padding: 50px 0;
     background-color: rgb(241, 240, 236);
 }
